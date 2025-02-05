@@ -1,7 +1,5 @@
 # Langhavens
 
-![Langhavens Logo](#)  
-
 ## A Quixotic mission generating perpetual learning  
 
 ### Purpose
